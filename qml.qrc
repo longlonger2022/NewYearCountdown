@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/qt/qml/newyearcountdown">
+        <file>main.qml</file>
+        <file>img/AndyLau.png</file>
+        <file>img/ice.png</file>
+        <file>sounds/bgm.wav</file>
+    </qresource>
+</RCC>
